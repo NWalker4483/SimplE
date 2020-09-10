@@ -1,5 +1,5 @@
-from dataset import Dataset
-from SimplE import SimplE
+from SimplE.dataset import Dataset
+from SimplE.SimplE import SimplE
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

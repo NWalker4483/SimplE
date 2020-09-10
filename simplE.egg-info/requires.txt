@@ -1,0 +1,7 @@
+torch
+numpy
+gensim
+praw
+tweepy
+feedparser
+nltk

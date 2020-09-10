@@ -1,7 +1,7 @@
 import torch
-from dataset import Dataset
+from SimplE.dataset import Dataset
 import numpy as np
-from measure import Measure
+from SimplE.measure import Measure
 from os import listdir
 from os.path import isfile, join
 
